@@ -1,0 +1,2 @@
+When some other deveoper was busy on writing the code and adding to their local repo, I finished my worked and updated the remote repo.
+Now, when other developer want to push the code to github, check what happen ?
