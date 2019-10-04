@@ -1,0 +1,2 @@
+This is the Merge Conflict Demo .
+I pull the latest code from remote repository github. and now I am updating the source code repo on my local machine.
