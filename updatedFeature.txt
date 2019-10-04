@@ -1,0 +1,2 @@
+I pushed my feature changing before other develper were busy on their local repo. I think whosoever is trying to push the code to this 
+remote repo must need to pull the latest code otherwise there will be merge confilct.
